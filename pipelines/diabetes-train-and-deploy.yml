@@ -1,6 +1,6 @@
 variables:
   ml-ws-connection: 'azmldemo' # Workspace Service Connection name
-  ml-ws: 'samantAzureMl' # AML Workspace name
+  ml-ws: 'rsamantAzureMl' # AML Workspace name
   ml-rg: 'SDKML' # AML resource Group name
   ml-ct: 'cpu-cluster-1' # AML Compute cluster name
   ml-path: 'models/diabetes' # Model directory path in repo
